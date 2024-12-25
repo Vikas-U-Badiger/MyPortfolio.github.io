@@ -18,7 +18,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
 
 ## Portfolio Topic
-![Project Screenshot](assets/image.png)
+![Project Screenshot](assets/me-3.jpg)
 <dl>
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
