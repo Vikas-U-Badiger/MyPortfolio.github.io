@@ -15,26 +15,27 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/Vikas-U-Badiger)
-- [LinkedIn](https://linkedin.com/in/vikas-badiger-601337296)
+- [LinkedIn](www.linkedin.com/in/vikas-badiger-601337296)
 
 ## Portfolio Topic
 <dl>
 <dt>Course Name</dt>
-<dd>Algorithmic Problem Solving</dd>
+<dd>Design And Analysis of Algorithms</dd>
 <dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dd>20ECSC205</dd>
 <dt>Name</dt>
-<dd>Your Name</dd>
+<dd>Vikas.U.badiger</dd>
 <dt>SRN</dt>
-<dd>Your SRN</dd>
+<dd>01fe23bci094</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>Rajashekharaiah K.M.M</dd>
 <dt>University</dt>
-<dd>Your University Name</dd>
+<dd>KLE Technological University</dd>
 <dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
+<dd>Warehouse management</dd>
 </dl>
 
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
+>“The only thing we have to fear is fear itself.” – Franklin D
 >
