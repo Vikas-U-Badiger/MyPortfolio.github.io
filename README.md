@@ -35,8 +35,9 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dd>Warehouse management</dd>
 </dl>
 
+[About me](about.md)
+
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
 >“The only thing we have to fear is fear itself.” – Franklin D
 >
-[About me](about.md)
