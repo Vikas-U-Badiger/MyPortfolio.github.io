@@ -14,7 +14,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/Vikas-U-Badiger)
+- [GitHub]([https://github.com/Vikas-U-Badiger](https://github.com/Vikas-U-Badiger/MyPortfolio.github.io))
 - [LinkedIn](www.linkedin.com/in/vikas-badiger-601337296)
 
 ## Portfolio Topic
