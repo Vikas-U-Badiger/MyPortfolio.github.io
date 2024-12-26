@@ -1,6 +1,6 @@
 ## Portfolio
 
-### Hello, I'm [Your Name] 👋
+### Hello there!!, I'm [Vikas] 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
@@ -9,16 +9,15 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - **Project 2**: A short description of another project.
 
 ## 🚀 Skills
-- C++, Python, JavaScript
+- C++, Python, JavaScript, Java, C, Html, CSS, etc
 - Data Structures and Algorithms
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [GitHub](https://github.com/Vikas-U-Badiger)
+- [LinkedIn](https://linkedin.com/in/vikas-badiger-601337296)
 
 ## Portfolio Topic
-![Project Screenshot](assets/me-3.jpg)
 <dl>
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
