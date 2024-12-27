@@ -3,7 +3,7 @@
 ### Hello there!!, I'm [Vikas] 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
-
+![me](assets/me-3.jpg)
 ## 🛠️ Projects
 - **Project 1**: A short description of your project.
 - **Project 2**: A short description of another project.
